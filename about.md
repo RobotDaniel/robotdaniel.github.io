@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm RobotDaniel I know python and try to self host stuff
+
+### Projects
+I made some projects on github that no one cares about, here are the links  
+https://github.com/RobotDaniel/Pyqt-Gradients-Generator  
+https://github.com/RobotDaniel/meme-calc
+
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+dark mode = best
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[robotdanielbusiness@gmail.com](mailto:robotdanielbusiness@gmail.com)

@@ -15,8 +15,8 @@ https://github.com/RobotDaniel/meme-calc
 
 
 ### More Information
-YouTube[https://www.youtube.com/@RobotDaniel10]
-GitHub[https://github.com/RobotDaniel]
+[https://github.com/RobotDaniel](GitHub)  
+[https://www.youtube.com/@RobotDaniel10](YouTube)
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dev Tools Basics'
+title: Dev Tools Basics
 published: false
 ---
 

@@ -1,4 +1,6 @@
 ---
+layout: post
+title: 'Dev Tools Basics'
 published: false
 ---
 

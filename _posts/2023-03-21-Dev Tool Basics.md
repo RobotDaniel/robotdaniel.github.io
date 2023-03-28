@@ -11,4 +11,4 @@ this is an essential tool for editing websites
 use `CMD + SHIFT + C` on macOS or `CTRL + SHIFT + C` on Windows or Linux  
 alternatively, you can right-click and press `Inspect`
 
-
+## the dev tools menu

@@ -14,3 +14,4 @@ an `if` statement checks if `operation == 1 and firstNumber == 9.0 and secondNum
 if the following parameters are true it runs the `ninePlusTen` function, this function adds 2 to the original addition, therefore staying true to the meme
 
 download it on [GitHub](https://github.com/RobotDaniel/meme-calc)
+Watch the video on [Youtube](https://www.youtube.com/watch?v=QJmTzWF2zLQ)

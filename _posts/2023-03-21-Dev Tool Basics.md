@@ -16,3 +16,20 @@ alternatively, you can right-click and press `Inspect`
 
 ## the dev tools menu
 ![Screenshot 2023-03-28 at 17 55 13](https://user-images.githubusercontent.com/101746899/228313810-ca9a52b2-da19-45df-8062-09d1bc61ada5.png)
+The menu is split up into many tabs:  
+`Inspector` and `Console` are the main ones we will be using  
+`Inspector` lets you view the html of a page and edit the changes live  
+`Console` allows you to view logs and use `JavaScript` commands
+
+## using Inspect
+I will be using `example.com` for this example but this will work on any website or html document
+
+- Step 1  
+open the dev tools
+- Step 2  
+I would recomend making sure that this icon is highlighted  
+![Screenshot 2023-03-28 at 18 16 37](https://user-images.githubusercontent.com/101746899/228317843-a0b1be7e-c4c4-4211-9b32-e68c73c781a3.png)  
+this icon allows you to hover over an element and then click on it to jump to it in the inspect menu
+
+![Screen Recording 2023-03-28 at 18 19 08](https://user-images.githubusercontent.com/101746899/228321095-eeee6266-2f56-4fd2-95ec-323f99cc689d.gif)
+

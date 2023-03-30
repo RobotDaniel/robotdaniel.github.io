@@ -33,3 +33,12 @@ this icon allows you to hover over an element and then click on it to jump to it
 
 ![Screen Recording 2023-03-28 at 18 19 08](https://user-images.githubusercontent.com/101746899/228321095-eeee6266-2f56-4fd2-95ec-323f99cc689d.gif)
 
+## document design mode
+- step 1
+open the `Console` tab 
+> insert screenshot here
+- step 2 
+type `document.designMode = "on" ` and press enter
+> insert gif here
+
+this enables document design mode, you can now start editing a page by simply clicking text, you can also delete elements by selecting them

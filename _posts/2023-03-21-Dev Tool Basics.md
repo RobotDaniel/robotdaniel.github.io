@@ -43,3 +43,5 @@ type `document.designMode = "on" ` and press enter
 
 this enables document design mode, you can now start editing a page by simply clicking text, you can also delete elements by selecting them
 > insert gif here
+## putting our skills into practice
+(WIP)

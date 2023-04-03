@@ -2,6 +2,7 @@
 layout: post
 title: ' Meme-Calc'
 published: true
+tag-name: Project
 ---
 
 A calculator where 9+10 = 21

@@ -4,7 +4,7 @@ title: Dev Tools Basics
 published: false
 ---
 
-This article will help you master your browser's dev tools, so you can edit websites, tweets and more
+This article will help you master your browser's DevTools, so you can edit websites, tweets and more
 
 
 ## Inspect Element

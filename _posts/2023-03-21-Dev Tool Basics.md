@@ -2,6 +2,7 @@
 layout: post
 title: Dev Tools Basics
 published: false
+tags: devtools tutorials 
 ---
 
 This article will help you master your browser's DevTools, so you can edit websites, tweets and more

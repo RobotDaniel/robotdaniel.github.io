@@ -2,7 +2,7 @@
 layout: post
 title: ' Pyqt-Gradients-Generator'
 published: true
-tag-name: Project
+tags: projects python
 ---
 
 A Pyqt5 Gradient Generator that Generates Gradients with OpenCV

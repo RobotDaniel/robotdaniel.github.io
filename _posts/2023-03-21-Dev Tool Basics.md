@@ -21,6 +21,7 @@ The menu is split up into many tabs:
 `Inspector` and `Console` are the main ones we will be using  
 `Inspector` lets you view the html of a page and edit the changes live  
 `Console` allows you to view logs and use `JavaScript` commands
+note:this may look slightly diffrent on other browsers but the funconality will be the same
 
 ## using Inspect
 I will be using `example.com` for this example but this will work on any website or html document
@@ -36,11 +37,16 @@ this icon allows you to hover over an element and then click on it to jump to it
 
 ## document design mode
 - step 1
-open the `Console` tab 
-> insert screenshot here
+open the `Console` tab   
+
+![DocumentDesignModeStep1](https://user-images.githubusercontent.com/101746899/230598855-408f0089-65f2-4616-959a-92cbe8f96879.gif)
+
+
+
 - step 2 
 type `document.designMode = "on" ` and press enter
-> insert gif here
+![DocumentDesignModeStep2](https://user-images.githubusercontent.com/101746899/230599575-1117d96b-3f24-45f6-bd53-370d19435602.gif)
+
 
 this enables document design mode, you can now start editing a page by simply clicking text, you can also delete elements by selecting them
 > insert gif here

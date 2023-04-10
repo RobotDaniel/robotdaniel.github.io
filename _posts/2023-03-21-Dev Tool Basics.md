@@ -48,7 +48,8 @@ type `document.designMode = "on" ` and press enter
 ![DocumentDesignModeStep2](https://user-images.githubusercontent.com/101746899/230599575-1117d96b-3f24-45f6-bd53-370d19435602.gif)
 
 
-this enables document design mode, you can now start editing a page by simply clicking text, you can also delete elements by selecting them
+this enables document design mode, you can now start editing a page by simply clicking text, you can also delete elements by selecting them  
+
 ![dev_tools_info](https://user-images.githubusercontent.com/101746899/230786311-5a1374e4-c72c-4f67-9d5f-6ad479ef72cf.gif)
 
 ## Examples

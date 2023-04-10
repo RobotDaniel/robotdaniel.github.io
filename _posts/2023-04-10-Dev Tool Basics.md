@@ -43,7 +43,7 @@ open the `Console` tab
 
 
 
-- step 2 
+- step 2   
 type `document.designMode = "on" ` and press enter
 ![DocumentDesignModeStep2](https://user-images.githubusercontent.com/101746899/230599575-1117d96b-3f24-45f6-bd53-370d19435602.gif)
 
@@ -56,5 +56,15 @@ this enables document design mode, you can now start editing a page by simply cl
 
 ### Youtube Sub Count
 ![SubCountExample](https://user-images.githubusercontent.com/101746899/230873710-4eabff03-2c08-4dd3-83e1-d061b17f71e6.gif)
+- Step 1  
+go to a YouTube Channel e.g https://www.youtube.com/@RobotDaniel10
+- Step 2  
+open the dev tools and go to the `Console` Tab 
+- Step 3  
+type `document.designMode = "on"` and press enter
+- Step 4  
+find the sub count and click on the number
+- Step 5  
+you should now have a text cursor on the number, you can now edit the text 
 
 

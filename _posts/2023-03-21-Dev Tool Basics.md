@@ -54,5 +54,6 @@ this enables document design mode, you can now start editing a page by simply cl
 ## Examples
 
 ### Youtube Sub Count
+![SubCountExample](https://user-images.githubusercontent.com/101746899/230873710-4eabff03-2c08-4dd3-83e1-d061b17f71e6.gif)
 
 

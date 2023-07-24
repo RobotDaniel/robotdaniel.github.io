@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Dev Tools Basics
-published: false
-tags: devtools tutorials
+published: true
+tags: DevTools tutorials
 ---
 
 This article will help you master your browser's DevTools, so you can edit websites, tweets and more
@@ -21,7 +21,7 @@ The menu is split up into many tabs:
 `Inspector` and `Console` are the main ones we will be using  
 `Inspector` lets you view the HTML of a page and edit the changes live  
 `Console` allows you to view logs and use `JavaScript` commands
-note:this may look slightly different on other browsers but the functionality will be the same
+note:this may look slightly different on other browsers, but the functionality will be the same
 
 ## Using Inspect
 I will be using `example.com` for this example, but this will work on any website or HTML document
@@ -54,10 +54,10 @@ this enables document design mode, you can now start editing a page by simply cl
 
 ## Example
 
-### Youtube Sub Count
+### YouTube Sub Count
 ![SubCountExample](https://user-images.githubusercontent.com/101746899/230873710-4eabff03-2c08-4dd3-83e1-d061b17f71e6.gif)
 - Step 1  
-go to a YouTube Channel e.g https://www.youtube.com/@RobotDaniel10
+go to a YouTube Channel, e.g. https://www.youtube.com/@RobotDaniel10
 - Step 2  
 open the dev tools and go to the `Console` Tab 
 - Step 3  

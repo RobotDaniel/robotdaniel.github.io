@@ -21,4 +21,4 @@ I made some projects on GitHub that no one cares about, here are the links
 
 ### Contact me
 
-[robotdanielbusiness@gmail.com](mailto:robotdanielbusiness@gmail.com)
+[robotdaniel10@gmail.com](mailto:robotdaniel10@gmail.com)
